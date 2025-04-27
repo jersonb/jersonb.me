@@ -26,7 +26,8 @@ a:link,
 
 body {
     background-color: #13353ff1;
-    width: 90vw;
+    width: 1250px;
+    max-width: 90vw;
     min-height: 100vh;
     border-radius: 2rem;
 }
