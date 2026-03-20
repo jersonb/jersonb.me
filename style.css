@@ -1,7 +1,7 @@
 html {
     font-family: monospace;
-    background-color: #0b1e24f1;
-    color: rgb(242, 242, 242);
+    background-color: #7252AA;
+    color: #F1F1E7;
     text-align: center;
     display: flex;
     justify-content: center;
@@ -25,7 +25,7 @@ a:link,
 }
 
 body {
-    background-color: #13353ff1;
+    background-color:  #7252AA;
     width: 1250px;
     max-width: 90vw;
     min-height: 100vh;
@@ -34,11 +34,11 @@ body {
 
 header {
     border-radius: 2rem;
-    box-shadow: 2px 2px 10px #0b1e24f1;
+    box-shadow: 2px 2px 10px #592D66;
     margin: 1rem;
     padding: 2rem;
     padding-bottom: 1rem;
-    background-color: #1d4e5e;
+    background-color: #592D66;
 }
 
 .links {
@@ -51,13 +51,13 @@ header {
 }
 
 .links li:hover {
-    background: #0b1e24f1;
+    background: #a57cec;
     font-weight: lighter;
 }
 
 .links li {
-    background-color: #1d4e5e;
-    box-shadow: 5px 5px 10px #0b1e24f1;
+    background-color: #592D66;
+    box-shadow: 5px 5px 10px #592D66;
     min-width: 70%;
     min-height: 1vh;
     border-radius: 2rem;
@@ -76,5 +76,5 @@ header {
     max-width: 2;
     max-width: 30vw;
     border-radius: 50rem;
-    box-shadow: 5px 5px 10px #0b1e24f1;
+    box-shadow: 5px 5px 10px #592D66;
 }
